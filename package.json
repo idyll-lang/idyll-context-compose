@@ -1,6 +1,6 @@
 {
   "name": "idyll-context-compose",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compose multiple contexts; makes it easier to work with multiple runtime plugins.",
   "main": "index.js",
   "scripts": {
