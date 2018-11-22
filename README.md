@@ -1,6 +1,6 @@
 # idyll-context-compose
 
-Compose multiple contexts; makes it easier to work with multiple runtime plugins.
+Compose multiple contexts; makes it easier to work with multiple [Idyll runtime plugins](https://github.com/idyll-lang/idyll-plugins).
 
 ## Example
 
